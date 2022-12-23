@@ -5,3 +5,8 @@ This coding example uses modAL and the iris dataset to provide an intuitive exam
 
 For more information on modAL go to: https://modal-python.readthedocs.io/ <br />
 For more information on AL read e.g. <em>Settles, B. (2009). Active learning literature survey.</em>
+
+<br/><br/>
+<p align="center">
+  <img width="460" height="300" src="example.png">
+</p>
