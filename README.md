@@ -4,4 +4,4 @@ Active Learning (AL) allows models to be trained without having to label as much
 This coding example uses modAL and the iris dataset to provide an intuitive example. The output shows the average accuracy of multiple AL runs.
 
 For more information on modAL go to: https://modal-python.readthedocs.io/ <br />
-For more information on AL read e.g. Settles, B. (2009). Active learning literature survey.
+For more information on AL read e.g. <em>Settles, B. (2009). Active learning literature survey.</em>
